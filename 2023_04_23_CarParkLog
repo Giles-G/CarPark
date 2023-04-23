@@ -1,0 +1,40 @@
+2023-04-23 16:56:57.476812 [info]: A vehicle with license plate number 1234 enters the parking lot
+2023-04-23 16:57:13.661651 [info]: A vehicle with license plate number 1235 enters the parking lot
+2023-04-23 16:57:20.840211 [erro]: Currently no visitor vehicles are included
+2023-04-23 16:58:27.961924 [info]: The vehicle with license plate number 1234 leaves the parking lot
+2023-04-23 16:58:36.621736 [info]: The vehicle with license plate number 1235 leaves the parking lot
+2023-04-23 16:58:38.735822 [erro]: There are no vehicles in the parking lot, and the vehicle Leaves operation cannot be performed
+2023-04-23 17:04:08.871075 [info]: The employee vehicle whose employee number is 9006789 enters the parking lot.
+2023-04-23 17:04:13.695962 [erro]: Incorrect identity, no access.
+2023-04-23 17:07:24.641730 [info]: The employee vehicle whose employee number is 9006789 enters the parking lot.
+2023-04-23 17:08:29.614505 [info]: The employee vehicle whose employee number is 9006789 leaves the parking lot.
+2023-04-23 17:08:35.270564 [info]: The employee vehicle whose employee number is 9004090 leaves the parking lot.
+2023-04-23 17:08:54.615877 [info]: The vehicle with barcode 1234 enters the parking lot.
+2023-04-23 17:08:59.801899 [info]: The vehicle with barcode 1235 enters the parking lot.
+2023-04-23 17:09:03.368026 [erro]: Incorrect identity, no access.
+2023-04-23 17:09:08.180474 [info]: The vehicle with barcode 1236 enters the parking lot.
+2023-04-23 17:19:23.502368 [info]: The vehicle with barcode 1234 enters the parking lot.
+2023-04-23 17:23:08.600764 [info]: The employee vehicle whose employee number is 9004090 enters the parking lot.
+2023-04-23 17:23:11.911578 [info]: The employee vehicle whose employee number is 9004090 enters the parking lot.
+2023-04-23 17:23:29.528066 [erro]: Incorrect identity, no access.
+2023-04-23 17:23:40.002834 [info]: A vehicle with license plate number 1234 enters the parking lot.
+2023-04-23 17:23:45.466536 [erro]: Parking lot is full, no traffic.
+2023-04-23 17:24:44.692327 [erro]: Parking lot is full, no traffic.
+2023-04-23 17:47:59.523740 [info]: The employee vehicle whose employee number is 9004090 enters the parking lot.
+2023-04-23 17:49:50.351104 [info]: The employee vehicle whose employee number is 9004090 enters the parking lot.
+2023-04-23 17:50:00.916820 [info]: The employee vehicle whose employee number is 9004090 enters the parking lot.
+2023-04-23 17:50:10.237938 [info]: The employee vehicle whose employee number is 9004090 leaves the parking lot.
+2023-04-23 17:50:35.520831 [info]: The employee vehicle whose employee number is 9004433 leaves the parking lot.
+2023-04-23 17:50:35.525989 [erro]: There are no vehicles in the parking lot, and the vehicle Leaves operation cannot be performed.
+2023-04-23 17:55:34.549024 [info]: The employee vehicle whose employee number is 9004090 enters the parking lot.
+2023-04-23 17:55:38.756937 [info]: The employee vehicle whose employee number is 9004090 enters the parking lot.
+2023-04-23 17:56:24.968277 [info]: A vehicle with license plate number 1234 enters the parking lot.
+2023-04-23 17:56:27.613361 [info]: A vehicle with license plate number 1235 enters the parking lot.
+2023-04-23 17:56:30.385412 [info]: The vehicle with barcode 1234 enters the parking lot.
+2023-04-23 17:56:33.284769 [info]: The vehicle with barcode 1235 enters the parking lot.
+2023-04-23 18:57:17.447760 [erro]: There are no vehicles in the parking lot, and the vehicle Leaves operation cannot be performed.
+2023-04-23 19:02:18.122839 [info]: The employee vehicle whose employee number is 9004090 enters the parking lot.
+2023-04-23 19:02:21.910514 [info]: The employee vehicle whose employee number is 9004090 enters the parking lot.
+2023-04-23 19:02:37.163224 [info]: The employee vehicle whose employee number is 9004433 leaves the parking lot.
+2023-04-23 19:02:39.693062 [info]: The employee vehicle whose employee number is 9004090 leaves the parking lot.
+2023-04-23 19:02:39.696061 [erro]: There are no vehicles in the parking lot, and the vehicle Leaves operation cannot be performed.
